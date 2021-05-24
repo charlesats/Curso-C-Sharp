@@ -1,0 +1,13 @@
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.exe
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.deps.json
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.runtimeconfig.json
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.runtimeconfig.dev.json
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.dll
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\bin\Debug\netcoreapp3.1\Exercicio_01.pdb
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.csprojAssemblyReference.cache
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.AssemblyInfoInputs.cache
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.AssemblyInfo.cs
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.csproj.CoreCompileInputs.cache
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.dll
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.pdb
+D:\Repositórios\ws-vs2019\Exercicio_01\Exercicio_01\obj\Debug\netcoreapp3.1\Exercicio_01.genruntimeconfig.cache
