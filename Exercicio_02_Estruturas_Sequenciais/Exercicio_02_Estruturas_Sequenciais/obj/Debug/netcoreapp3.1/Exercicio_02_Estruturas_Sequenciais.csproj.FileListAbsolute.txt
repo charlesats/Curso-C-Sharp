@@ -1,0 +1,13 @@
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\bin\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.exe
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\bin\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.deps.json
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\bin\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.runtimeconfig.json
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\bin\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.runtimeconfig.dev.json
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\bin\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.dll
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\bin\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.pdb
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\obj\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.csprojAssemblyReference.cache
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\obj\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.AssemblyInfoInputs.cache
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\obj\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.AssemblyInfo.cs
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\obj\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.csproj.CoreCompileInputs.cache
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\obj\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.dll
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\obj\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.pdb
+D:\Repositórios\ws-vs2019\Curso-C--e-.NET\Exercicio_02_Estruturas_Sequenciais\Exercicio_02_Estruturas_Sequenciais\obj\Debug\netcoreapp3.1\Exercicio_02_Estruturas_Sequenciais.genruntimeconfig.cache

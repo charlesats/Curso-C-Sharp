@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_05_Estruturas_Sequenciais", "Exercicio_05_Estruturas_Sequenciais\Exercicio_05_Estruturas_Sequenciais.csproj", "{E40F766D-1778-4DE0-B157-5C8CE5BDEBD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E40F766D-1778-4DE0-B157-5C8CE5BDEBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40F766D-1778-4DE0-B157-5C8CE5BDEBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40F766D-1778-4DE0-B157-5C8CE5BDEBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40F766D-1778-4DE0-B157-5C8CE5BDEBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0CC96E8-2F15-49D6-83B4-EE7DF14FB1AD}
+	EndGlobalSection
+EndGlobal
